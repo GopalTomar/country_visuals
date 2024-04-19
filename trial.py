@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 # from sklearn.preprocessing import StandardScaler
-from sklearn.cluster import KMeans
+# from sklearn.cluster import KMeans
 from scipy.cluster.hierarchy import linkage, dendrogram, cut_tree
 import matplotlib.pyplot as plt
 import seaborn as sns
