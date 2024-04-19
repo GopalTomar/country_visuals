@@ -4,7 +4,7 @@ import pandas as pd
 # from sklearn.cluster import KMeans
 # from scipy.cluster.hierarchy import linkage, dendrogram, cut_tree
 # import matplotlib.pyplot as plt
-import seaborn as sns
+# import seaborn as sns
 
 # Load data
 @st.cache_resource
